@@ -21,7 +21,8 @@ Read on, to learn more about my Data Analytics journey!
 1. Python
 2. SQL
 3. Tableau
-4. Excel Financial Modelling
+4. Excel Modelling
+5. One-handed backhand
 
 
 ## Summary of My Journey
